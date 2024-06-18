@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/fynelabs/selfupdate"
+	"github.com/phlipse/selfupdate"
 )
 
 func main() {

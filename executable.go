@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fynelabs/selfupdate/internal/osext"
+	"github.com/phlipse/selfupdate/internal/osext"
 )
 
 var (
